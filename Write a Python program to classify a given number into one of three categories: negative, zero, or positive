@@ -1,0 +1,7 @@
+a= int(input())
+if(a<0):
+  "The number is negative."
+if(a==0):
+  "The number is zero."
+if(a>0):
+  "The number is positive."
